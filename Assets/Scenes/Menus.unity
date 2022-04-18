@@ -1408,6 +1408,18 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1875604297071314212, guid: 3d3dae63615a67b4f9de99b25bdf4718, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 519420031}
+    - target: {fileID: 1875604297071314212, guid: 3d3dae63615a67b4f9de99b25bdf4718, type: 3}
+      propertyPath: m_RenderMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1875604297071314212, guid: 3d3dae63615a67b4f9de99b25bdf4718, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1875604297071314213, guid: 3d3dae63615a67b4f9de99b25bdf4718, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -1494,7 +1506,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1875604297071314217, guid: 3d3dae63615a67b4f9de99b25bdf4718, type: 3}
       propertyPath: m_Name
-      value: Canvas
+      value: StatsCanvas
       objectReference: {fileID: 0}
     - target: {fileID: 1875604297339535640, guid: 3d3dae63615a67b4f9de99b25bdf4718, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -1507,6 +1519,14 @@ PrefabInstance:
     - target: {fileID: 1875604297508358936, guid: 3d3dae63615a67b4f9de99b25bdf4718, type: 3}
       propertyPath: m_Text
       value: 'SCORE:'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1875604297508358936, guid: 3d3dae63615a67b4f9de99b25bdf4718, type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1875604297508358936, guid: 3d3dae63615a67b4f9de99b25bdf4718, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 1875604297508358939, guid: 3d3dae63615a67b4f9de99b25bdf4718, type: 3}
       propertyPath: m_AnchoredPosition.x
@@ -1539,6 +1559,10 @@ PrefabInstance:
     - target: {fileID: 8134789484317398735, guid: 3d3dae63615a67b4f9de99b25bdf4718, type: 3}
       propertyPath: m_Color.r
       value: 0.10950215
+      objectReference: {fileID: 0}
+    - target: {fileID: 8134789484317398735, guid: 3d3dae63615a67b4f9de99b25bdf4718, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 8134789484317398735, guid: 3d3dae63615a67b4f9de99b25bdf4718, type: 3}
       propertyPath: m_FontData.m_Alignment
