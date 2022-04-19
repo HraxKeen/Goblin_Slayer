@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6e53e413ceafa944add985a99439dd8, type: 3}
   m_Name: Swarmer
   m_EditorClassIdentifier: 
-  hp: 25
+  hp: 45
   damage: 5
   speed: 1.5

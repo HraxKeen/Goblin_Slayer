@@ -17,7 +17,7 @@ public class PlayerAttack : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Joystick1Button0))
+        if(Input.GetKeyDown(KeyCode.JoystickButton0))
         {
             Attack();
         }

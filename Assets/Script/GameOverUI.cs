@@ -11,6 +11,7 @@ public class GameOverUI : MonoBehaviour
     void Start()
     {
         Health.OnPlayerDeath += ActivateGameObject;
+        this.gameObject.SetActive(false);
     }
 
     // Update is called once per frame
